@@ -1,0 +1,186 @@
+{
+  "year": 2018,
+  "updated": null,
+  "rates": [
+    {
+      "Class": "RT",
+      "Label": "Residential Full Rate",
+      "TGM": "0.00421627",
+      "RGM": "0.00585801",
+      "RTA": "0.00055973",
+      "RWD": "0.00042681",
+      "EDU": "0.00188000"
+    },
+    {
+      "Class": "R1",
+      "Label": "Farmlands Awaiting Development Phase I",
+      "TGM": "0.00316220",
+      "RGM": "0.00439351",
+      "RTA": "0.00041980",
+      "RWD": "0.00032011",
+      "EDU": "0.00141000"
+    },
+    {
+      "Class": "MT",
+      "Label": "Multi-Res - Full Rate",
+      "TGM": "0.00786966",
+      "RGM": "0.01093398",
+      "RTA": "0.00104474",
+      "RWD": "0.00079664",
+      "EDU": "0.00188000"
+    },
+    {
+      "Class": "FT",
+      "Label": "Farmlands",
+      "TGM": "0.00084325",
+      "RGM": "0.00117160",
+      "RTA": "0.00011195",
+      "RWD": "0.00008536",
+      "EDU": "0.00047000"
+    },
+    {
+      "Class": "CT",
+      "Label": "Commercial Full Rate",
+      "TGM": "0.00611359",
+      "RGM": "0.00849411",
+      "RTA": "0.00081161",
+      "RWD": "0.00061887",
+      "EDU": "0.01135490"
+    },
+    {
+      "Class": "CU",
+      "Label": "Commercial Vacant Units",
+      "TGM": "0.00427951",
+      "RGM": "0.00594588",
+      "RTA": "0.00056813",
+      "RWD": "0.00043321",
+      "EDU": "0.00794843"
+    },
+    {
+      "Class": "CX",
+      "Label": "Commercial Vacant Land",
+      "TGM": "0.00427951",
+      "RGM": "0.00594588",
+      "RTA": "0.00056813",
+      "RWD": "0.00043321",
+      "EDU": "0.00794843"
+    },
+    {
+      "Class": "GT",
+      "Label": "Parking Lots Full Rate",
+      "TGM": "0.00611359",
+      "RGM": "0.00849411",
+      "RTA": "0.00081161",
+      "RWD": "0.00061887",
+      "EDU": "0.01135490"
+    },
+    {
+      "Class": "DT",
+      "Label": "Office Full Rate",
+      "TGM": "0.00611359",
+      "RGM": "0.00849411",
+      "RTA": "0.00081161",
+      "RWD": "0.00061887",
+      "EDU": "0.01135490"
+    },
+    {
+      "Class": "ST",
+      "Label": "Shopping Full Rate",
+      "TGM": "0.00611359",
+      "RGM": "0.00849411",
+      "RTA": "0.00081161",
+      "RWD": "0.00061887",
+      "EDU": "0.01135490"
+    },
+    {
+      "Class": "SU",
+      "Label": "Shopping Vacant Units",
+      "TGM": "0.00427951",
+      "RGM": "0.00594588",
+      "RTA": "0.00056813",
+      "RWD": "0.00043321",
+      "EDU": "0.00794843"
+    },
+    {
+      "Class": "XT",
+      "Label": "New Commercial Full Rate",
+      "TGM": "0.00611359",
+      "RGM": "0.00849411",
+      "RTA": "0.00081161",
+      "RWD": "0.00061887",
+      "EDU": "0.01135490"
+    },
+    {
+      "Class": "XU",
+      "Label": "New Commercial Vacant Units",
+      "TGM": "0.00427951",
+      "RGM": "0.00594588",
+      "RTA": "0.00056813",
+      "RWD": "0.00043321",
+      "EDU": "0.00794843"
+    },
+    {
+      "Class": "IT",
+      "Label": "Industrial Full Rate",
+      "TGM": "0.00952792",
+      "RGM": "0.01323793",
+      "RTA": "0.00126488",
+      "RWD": "0.00096451",
+      "EDU": "0.01500000"
+    },
+    {
+      "Class": "IU",
+      "Label": "Industrial Vacant Units",
+      "TGM": "0.00619327",
+      "RGM": "0.00860483",
+      "RTA": "0.00082219",
+      "RWD": "0.00062694",
+      "EDU": "0.00975000"
+    },
+    {
+      "Class": "IX",
+      "Label": "Industrial Vacant Land",
+      "TGM": "0.00619327",
+      "RGM": "0.00860483",
+      "RTA": "0.00082219",
+      "RWD": "0.00062694",
+      "EDU": "0.00975000"
+    },
+    {
+      "Class": "LT",
+      "Label": "Large Industrial Full Rate",
+      "TGM": "0.00952792",
+      "RGM": "0.01323793",
+      "RTA": "0.00126488",
+      "RWD": "0.00096451",
+      "EDU": "0.01500000"
+    },
+    {
+      "Class": "LU",
+      "Label": "Large Industrial Vacant Units",
+      "TGM": "0.00619327",
+      "RGM": "0.00860483",
+      "RTA": "0.00082219",
+      "RWD": "0.00062694",
+      "EDU": "0.00975000"
+    },
+    {
+      "Class": "PT",
+      "Label": "Pipeline",
+      "TGM": "0.00518348",
+      "RGM": "0.00720184",
+      "RTA": "0.00068813",
+      "RWD": "0.00052472",
+      "EDU": "0.01180000"
+    },
+    {
+      "Class": "TT",
+      "Label": "Managed Forests",
+      "TGM": "0.00105407",
+      "RGM": "0.00146450",
+      "RTA": "0.00013993",
+      "RWD": "0.00010670",
+      "EDU": "0.00047000"
+    }
+  ]
+}
